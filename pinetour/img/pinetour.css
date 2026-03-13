@@ -1,0 +1,65 @@
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero {
+  background-image: url("img/HeroImage.png");
+  width: 1440px;
+  height: 773px;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 250px;
+}
+#menutei {
+  color: #fff;
+  font-size: 18px;
+}
+#en {
+  color: black;
+  background-color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#neg {
+  height: 80px;
+  width: 80px;
+}
+#pu {
+  color: #e8edf2b8;
+  font-size: 50px;
+}
+#aw {
+  color: #fdfdfefa;
+  font-size: 100px;
+}
+#twenty {
+  color: #ffffffcc;
+  font-size: 50px;
+}
+#card1 {
+  background-image: url("img/card1.png");
+  width: 275.49px;
+  height: 370px;
+}

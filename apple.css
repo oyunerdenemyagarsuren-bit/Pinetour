@@ -1,0 +1,11 @@
+div {
+  display: flex;
+}
+
+.bar {
+  color: aliceblue;
+  background-color: black;
+  height: 20px;
+  width: 100px;
+  border: ;
+}

@@ -1,0 +1,23 @@
+h5 {
+  color: rgb(177, 198, 216);
+  background-color: orangered;
+  width: 70px;
+  border-radius: 16px;
+  font-size: 20px;
+}
+div {
+  width: 300px;
+  padding-left: 70px;
+  padding-top: 50px;
+}
+.zurag {
+  margin-left: 350px;
+  margin-top: -400px;
+}
+body {
+  background-color: rgb(244, 238, 232);
+}
+
+h5 {
+  text-align: center;
+}
